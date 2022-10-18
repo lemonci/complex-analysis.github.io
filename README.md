@@ -40,7 +40,7 @@ I highly encourage you to practice your problem solving skills by solving
 the suggested exercises (or filling the missing details) that you will 
 encounter throughout the sections.
 
-Think of the computer as a physicist would his laboratory. It may be used
+Think of the computer as a physicist would establish his laboratory. It may be used
 to check existing ideas about our world, or as a tool to discover new phenomena
 which then poses new ideas or challenges for their explanation. 
 Throughout the sections I have provided detailed instructions (in some cases)
